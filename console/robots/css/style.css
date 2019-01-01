@@ -30,6 +30,13 @@ b {
   text-decoration-color: aliceblue;
 }
 
+y{
+  color: honeydew;
+  font-size: 32px;
+  font-family: monospace;
+  text-decoration-line: underline;
+}
+
 .arm,
 .leg {
   animation: dangle 3s cubic-bezier(0.57, 0.19, 0.25, 0.75) infinite;
