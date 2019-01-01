@@ -20,21 +20,13 @@ body {
 p {
   color: white !important;
   font-family: 'Raleway';
-  font-size: 22px;
   padding-bottom: 10px;
   width: 100%;
   text-align: center;
 }
 
 b {
-  text-decoration-color: aliceblue;
-}
-
-y{
-  color: honeydew;
-  font-size: 32px;
-  font-family: monospace;
-  text-decoration-line: underline;
+  text-decoration: underline
 }
 
 .arm,
